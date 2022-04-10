@@ -1,0 +1,9 @@
+[submodule "mp"]
+	path = mp
+	url = git@github-personal:jna744/simple_mp.git
+[submodule "sm"]
+	path = sm
+	url = git@github-personal:jna744/simple_sm.git
+[submodule "optional"]
+	path = optional
+	url = git@github-personal:jna744/simple_optional.git
